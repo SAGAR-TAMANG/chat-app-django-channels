@@ -16,4 +16,10 @@ Here, we have followed the official tutorial from the Channels' documentation, i
 
 Note: The server address might be different
 
+# Future works 
+
+1. Create and implement a fresh UI for the web app.
+
+2. Change the URL from "http://127.0.0.1:8000/chat" to "http://127.0.0.1:8000" for default. 
+
 MIT License - Sagar Tamang
